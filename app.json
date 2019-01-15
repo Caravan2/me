@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "MOMO DEMO",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "MoMo-DeMo",
+    "sdkVersion": "31.0.0",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    },
+    "description": "This is an application for GZAAT",
+    "githubUrl": "https://github.com/Caravan2"
+  }
+}
